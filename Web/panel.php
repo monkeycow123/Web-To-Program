@@ -3,7 +3,7 @@
 ?>
 	<main>
 		<div class="main-wrapper">
-			<button class="button1">Generate New Key</button>
+			<button class="button1" onclick="">Generate New Key</button>
 
 			<?php	 
 				$key = $_SESSION['keyAuth'];
